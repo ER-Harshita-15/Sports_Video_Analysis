@@ -18,7 +18,7 @@ basketballVideoAnalysis/ ├── color-detection/ │ ├── plot_csv.py �
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/basketballVideoAnalysis.git
+   git clone https://github.com/ER-Harshita-15/Sorts_Video_Analysis/basketballVideoAnalysis.git
    cd basketballVideoAnalysis
 
 2. Install dependencies for each module:
@@ -29,19 +29,23 @@ pip install -r requirements.txt
 Usage:
 1) Color Detection
 Run the show_colors.py script to visualize team colors:
-python color-detection/show_colors.py
+   ```bash
+   python color-detection/show_colors.py
 
-2) Court Detection
+3) Court Detection
 Use court_detection1.py to detect courts in video frames:
-python court-detection/court_detection1.py
+   ```bash
+   python court-detection/court_detection1.py
 
-3) Homography Mapping
+5) Homography Mapping
 Explore the homography mapping examples in the Jupyter notebook:
-jupyter notebook homography-mapping/homography-tutorial.ipynb
+   ```bash
+   jupyter notebook homography-mapping/homography-tutorial.ipynb
 
-4) Mask R-CNN
+7) Mask R-CNN
 Run the Mask R-CNN model on videos:
-python mask-rcnn/mask_rcnn_video.py
+   ```bash
+   python mask-rcnn/mask_rcnn_video.py
 
 License
 This project is licensed under the Apache License 2.0.
