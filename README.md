@@ -53,6 +53,4 @@ This project is licensed under the Apache License 2.0.
 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-Acknowledgments
-Mask R-CNN
-Basketball Mini-Map Tutorial
+
