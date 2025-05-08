@@ -1,8 +1,4 @@
-# Notebook Tutorial
 
-* Surf to https://colab.research.google.com/notebooks/welcome.ipynb
-* Open Python notebook file : [Basketball_Mask_RCNN.ipynb](Basketball_Mask_RCNN.ipynb)
-* Run tutorial step-by-step
 
 # Local Installation
 
